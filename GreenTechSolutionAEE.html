@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Enlace a mi propio archivo de estilo CSS -->   
+    <link rel="stylesheet" href="GreenTechSolutionAEE.css" />
+    <title>Salvemos el Planeta - GreenTech</title>
+
+    <!-- Elimino los links -->
+
+  </head>
+  <body>
+
+    <!-- Elimino las clases y dejo unicamente la etiqueta principal -->
+
+    <div class="hero-gigante">
+      <h1>Salvemos el Planeta</h1>
+      <p>Únete a la revolución verde de GreenTech.</p>
+
+      <button class="btn-eco-redundante">
+        <i class="fa-solid fa-leaf">Quiero ayudar</i> 
+      </button>
+    </div>
+
+<!-- Elimino los scripts debido a su inecesaria utilización -->
+
+    <script>
+      $(document).ready(function () {
+        const anioActual = moment().format("YYYY");
+        $("body").append(
+          '<footer class="text-center p-3 bg-dark text-white" style="width: 100%;">GreenTech Solutions &copy; ' +
+            anioActual +
+            " - Haciendo un mundo mejor (pero calentando tu CPU)</footer>",
+        );
+      });
+    </script>
+  </body>
+</html>
