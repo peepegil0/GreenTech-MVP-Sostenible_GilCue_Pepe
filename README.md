@@ -25,10 +25,6 @@ En la versión refactorizada, todos esos estilos se han reescrito directamente e
 
 ## Relación con la sostenibilidad
 
-Claro, aquí tienes esa sección reescrita de forma más sencilla y directa:
-
-## Relación con la sostenibilidad y la obsolescencia programada
-
 Hay un efecto del software ineficiente que pasa muy desapercibido: hace que los móviles y ordenadores envejezcan antes de tiempo.
 
 Cuando una web carga librerías enormes que no necesita, el dispositivo tiene que trabajar más de la cuenta para procesarlas. Eso se traduce en que el móvil va más lento, se calienta y gasta batería más rápido. Con el tiempo, el usuario siente que su teléfono "ya no sirve" y lo cambia, aunque el hardware en sí todavía funcione perfectamente. Y el software mal optimizado es uno de sus principales culpables, y nosotros podemos ser uno de los principales culpables o esenciales para poder solucionar este problema.
