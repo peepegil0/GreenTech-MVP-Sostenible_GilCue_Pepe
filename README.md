@@ -4,7 +4,7 @@
 
 Este proyecto consiste en la refactorización de una página web, *"Salvemos el Planeta"* de GreenTech Solutions. El objetivo es transformar una web pesada e ineficiente, en una versión ligera, rápida y sostenible, eliminando todo lo inecesario.
 
-El resultado y el objetivo del trabajo es una web funcionalmente e idéntica a la original, pero que consume muchos menos recursos, carga más rápido y respeta los principios del diseño web sostenible.
+El resultado y el objetivo del trabajo es una web funcional e idéntica a la original, pero que consume muchos menos recursos, carga más rápido y respeta los principios del diseño web sostenible.
 
 ## Estructura del repositorio
 
